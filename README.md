@@ -66,7 +66,7 @@ First change the path of the image file and then run the code by copying the bel
 ## Screenshots
 
 Original Image
-![Original image](Images\Table.JPG)
+![Original image](Table.JPG)
 
 Post Process Image
 ![Post process image](Table_res.JPG)
