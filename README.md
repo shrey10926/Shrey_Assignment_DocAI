@@ -11,12 +11,20 @@ Two approaches are showcased here and depending on your availability of resource
 ### Non-AI based approach
 The first approach is a lightweight one where we do not use any Machine/Deep Learning models. The cells are counted using only Python OpenCV.
 
-It utilizes image processing techniques along with performing a set of morphological operations on the image to detect and count the cells. 
+It utilizes image processing techniques along with performing a set of morphological operations on the image to detect and count the cells.
+
+The Pros of this technique is that it is lightweight and does not require any heavy computational resource.
+The Cons of this approach is that it is not robus. It fails on many Merged Cell tables as well as borderless tables. 
 
 ### AI based approach
 This second approach use a Deep Learning model to count the number of cells. Alhough this requires more computational resource but it is mouch more accurate and robust as it can handle both borderless and bordered tables.
 
 This technique uses a Deep Learning model to detect and count the cells. This apporach is more robust and accurat than compared to the first one but requires heavy computational resources (i.e. GPU).
+
+The Pros of this technique is that it is quite robust. It can accurately detect and count cells of merged tables as well as borderless tables.
+The Cons of this approach is that it requires heay computational resources like GPU or a powerful CPU.
+
+
 ## Run Locally
 
 Make sure you have python 3.11 or later installed.
