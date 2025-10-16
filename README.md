@@ -72,6 +72,6 @@ Post Process Image
 ![Post process image](Table_res.JPG)
 ## 🚀 About Me
 I'm an AI Engineer with expertise in Traditional Machine Learning, Deep Learning, Computer Vision, Natural Language Processing and Generative AI.
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/shrey10926?tab=repositories)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shrey-jain-837504214)
